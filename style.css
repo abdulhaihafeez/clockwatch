@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+#container{
+    background-color: rgb(6, 44, 44);
+    height: 100vh;
+    width: 100vw;
+
+
+}
+#timeanddate{
+    border: 10px solid rgb(244, 134, 16);
+    width: 40vw;
+    margin-left: 30%;
+    
+   
+}
+h1,h2{
+    text-align: center;
+
+}
+h2{
+    font-size: 90px;
+    margin-bottom: 40px;
+    color: rgb(246, 186, 21);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#current-time{
+    color: rgb(54, 224, 24);
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#date{
+    color: rgb(54, 224, 24);
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
